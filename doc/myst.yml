@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 43701336-c290-46b0-8e48-6528e15b5fcc
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  title: Jupyter Foundation Board Team Compass
+  github: https://github.com/jupyter-governance/jupyter-foundation-governing-board
+  toc:
+    - file: home.md
+    - title: Meeting Notes
+      children:
+      - file: meetings/2025.md
+    - file: contribute.md
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: media/images/favicon.png
+    logo: media/images/foundation.svg
+    logo_dark: media/images/foundation-dark.svg
