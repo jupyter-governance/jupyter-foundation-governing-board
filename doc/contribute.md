@@ -2,7 +2,7 @@
 
 We strongly encourage the Foundation Board to edit this documentation so that remains up-to-date and has useful information in it. The way to do so is by opening a pull request on GitHub. Here are two ways to do so:
 
-## Local workflow
+## How to edit locally and push to GitHub
 
 ### Clone this repository
 
@@ -35,7 +35,7 @@ git push
 
 Finally, open a pull request to propose the changes.
 
-## GitHub workflow
+## How to edit remotely using GitHub.dev
 
 If you'd like to skip working locally, you can propose edits to the documentation directly from GitHub.
 To do so, go to the following URL, which will open the repository in a VSCode instance running in the cloud:
@@ -43,3 +43,8 @@ To do so, go to the following URL, which will open the repository in a VSCode in
 [github.dev/jupyter-governance/jupyter-foundation-governing-board](https://github.dev/jupyter-governance/jupyter-foundation-governing-board)
 
 Make the edits there, then use the VSCode interface to commit and push the changes to the repository.
+
+## How to learn more about MyST
+
+This team compass uses [the MyST Document Engine](https://mystmd.org/guide).
+Visit that website for comprehensive documentation on how to author and build MyST documents like this one.
