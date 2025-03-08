@@ -40,7 +40,6 @@ jobs:
         run: |
           cd doc
           myst build --html
-          mv _build/html/index.html _build/html/index.md
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -21,3 +21,4 @@ site:
     favicon: media/images/favicon.png
     logo: media/images/foundation.svg
     logo_dark: media/images/foundation-dark.svg
+    folders: true
