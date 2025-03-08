@@ -9,7 +9,7 @@ project:
   title: Jupyter Foundation Board Team Compass
   github: https://github.com/jupyter-governance/jupyter-foundation-governing-board
   toc:
-    - file: home.md
+    - file: index.md
     - title: Meeting Notes
       children:
       - file: meetings/2025.md
