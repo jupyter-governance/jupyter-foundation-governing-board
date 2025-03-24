@@ -12,6 +12,7 @@ project:
     LF: The Linux Foundation
   toc:
     - file: index.md
+    - file: admin.md
     - title: Meeting Notes
       children:
       - file: meetings/2025.md
