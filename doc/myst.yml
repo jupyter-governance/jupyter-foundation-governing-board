@@ -8,8 +8,11 @@ project:
   # authors: []
   title: Jupyter Foundation Board Team Compass
   github: https://github.com/jupyter-governance/jupyter-foundation-governing-board
+  abbreviations:
+    LF: The Linux Foundation
   toc:
     - file: index.md
+    - file: admin.md
     - title: Meeting Notes
       children:
       - file: meetings/2025.md
