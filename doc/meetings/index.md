@@ -1,7 +1,5 @@
 # Meetings and minutes
 
-##
-
 ## Where to find the meeting minutes
 
 We use Google Docs to track the minutes of each of our meetings.
