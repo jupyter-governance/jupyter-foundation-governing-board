@@ -9,6 +9,10 @@ project:
   github: https://github.com/jupyter-governance/jupyter-foundation-governing-board
   abbreviations:
     LF: The Linux Foundation
+    JEC: Jupyter Executive Council
+  project:
+    references:
+      jec: https://executive-council-team-compass.readthedocs.io/en/latest/
   toc:
     - file: index.md
     - file: admin.md
