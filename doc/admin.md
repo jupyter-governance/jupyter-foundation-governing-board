@@ -16,3 +16,15 @@ The Program Manager is our primary point-of-contact with the Linux Foundation, a
 The best way to send messages is via e-mail, please ask another Foundation member if you need it.
 
 Our Program Manager is [Naomi Washington](https://www.linkedin.com/in/naomiwashington/).
+
+(support)=
+## How to get support from the Linux Foundation
+
+We have a few different avenues for support from the Linux Foundation.
+The easiest route is to e-mail `support@jupyterfoundation.org` with your question, and they'll get back to you.
+You can also reach out to [our Program Manager](#program-manager).
+
+## How to control the jupyterfoundation.org domain
+
+While most subdomains are controlled by [Jupyter's Cloudflare](xref:jec#cloudflare), the domain `jupyterfoundation.org` is controlled by the Linux Foundation.
+If you wish to make modifications to this domain, reach out to [the LF support e-mail](#support).
