@@ -8,5 +8,20 @@ This Team Compass is very young and still a work in progress. It is likely missi
 
 ## Where information is located
 
-- [Our GitHub repository](https://github.com/jupyter-governance/jupyter-foundation-governing-board) has all the source files for this team compass.
-- [The Governing Board Google Drive folder](https://drive.google.com/drive/folders/1RIBUYQk8xN1-vHs4bqLM8Chj8tWOfM90?usp=drive_link) has most of our working documents.
+### Our GitHub repository
+
+[Our GitHub repository](https://github.com/jupyter-governance/jupyter-foundation-governing-board) has all the source files for this team compass.
+
+(google-drive)=
+
+### Board Google Drive Folder
+
+**The Governing Board Google Drive folder** has most of our working documents. We don't share this link publicly since it has sensitive information. For access, please message one of the board members.
+
+## Guidelines for sensitive information
+
+This is a public website, so only provide information and links that are reasonable to be shared publicly.
+_Avoid sharing links to sensitive information, even if it is behind an authentication wall_.
+For now we wish to be biased on the conservative side and reduce the risk of unwanted access.
+
+If you'd like to share sensitive information, document its existence here, and provide general directions for how to find it in [the Board's Google Drive](#google-drive).

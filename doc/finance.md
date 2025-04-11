@@ -2,6 +2,11 @@
 
 ## Where can I find the budget?
 
-See [this Google Drive folder for our budget information](https://drive.google.com/drive/folders/1a6E7PGOe6MlTsiVQBo4-ZyooDuAltuaY?usp=drive_link).
+See [the Board Google Drive](#google-drive) for our budget information.
+It is in the {kbd}`Governing Board` -> {kbd}`Budget` folder.
 
-In addition, the [Monthly Summaries folder](https://drive.google.com/drive/folders/1oR_N5ofVfPlWus0BHV4KtTWj4JeEiONn?usp=drive_link) contains an updated budget with the latest information about expenses.
+## Where can I find monthly summaries of the budget?
+
+The **Monthly Summaries folder** contains an updated budget with the latest information about expenses.
+It is in [the Board Google Drive](#google-drive).
+Find the {kbd}`Governing Board` -> {kbd}`Budget` -> {kbd}`Monthly summaries` folder.
