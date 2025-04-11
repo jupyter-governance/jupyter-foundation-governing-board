@@ -1,4 +1,3 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
   id: 43701336-c290-46b0-8e48-6528e15b5fcc
@@ -15,10 +14,10 @@ project:
     - file: admin.md
     - file: finance.md
     - title: Meeting Notes
+      file: meetings/index.md
       children:
       - file: meetings/2025.md
     - file: contribute.md
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
   options:
