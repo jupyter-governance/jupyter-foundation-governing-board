@@ -13,6 +13,7 @@ project:
   toc:
     - file: index.md
     - file: admin.md
+    - file: finance.md
     - title: Meeting Notes
       children:
       - file: meetings/2025.md
