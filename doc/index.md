@@ -8,6 +8,8 @@ This Team Compass is very young and still a work in progress. It is likely missi
 
 ## Where information is located
 
+You can find most policy and practices of this group in **the site navigation to your left**. In addition the source files for this website are listed below.
+
 ### Our GitHub repository
 
 [Our GitHub repository](https://github.com/jupyter-governance/jupyter-foundation-governing-board) has all the source files for this team compass.
