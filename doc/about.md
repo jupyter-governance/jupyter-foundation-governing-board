@@ -2,7 +2,7 @@
 
 ## Our Mission
 
-The Jupyter Foundation exists to ensure that Jupyter’s community has the resources it needs to build sustainable, reliable, and impactful technology.
+The Jupyter Foundation exists to ensure that Project Jupyter has the resources it needs to build sustainable, reliable, and impactful technology.
 
 ## What is the Foundation’s problem to solve?
 
