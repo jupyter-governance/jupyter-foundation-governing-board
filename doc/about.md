@@ -65,6 +65,6 @@ If a subcommittee has members that are not also on the Board, then any decisions
 
 This is still a work in progress. The Board has initially defined the following subcommittees:
 
-- **Technical Support Committee** - dedicated to improving the quality, reliability, and safety of Jupyter's technical infrastructure.
+- **Technical Support Committee** - dedicated to improving the quality, reliability, and safety of Project Jupyter's software.
 - **Community Support Committee** - dedicated to improving the health of Project Jupyter's contributor community.
 - **Foundation Membership Development Committee** - dedicated to ensuring that the Jupyter Foundation membership grows and benefits from the Foundation.
