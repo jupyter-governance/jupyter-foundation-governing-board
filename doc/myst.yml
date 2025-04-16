@@ -15,13 +15,18 @@ project:
       jec: https://executive-council-team-compass.readthedocs.io/en/latest/
   toc:
     - file: index.md
-    - file: admin.md
+    - file: about.md
+    - file: strategy.md
+    - file: funding/priorities.md
+    - file: funding/process.md
     - file: finance.md
+    - file: communication.md
+    - file: admin.md
+    - file: contribute.md
     - title: Meeting Notes
       file: meetings/index.md
       children:
       - file: meetings/2025.md
-    - file: contribute.md
 site:
   template: book-theme
   options:
