@@ -43,7 +43,7 @@ _These are likely not exhaustive, but are included to help us understand the kin
 3. **Increase the frequency and transparency of minor releases.** “Release early, release often”, with an emphasis on minor releases providing bug fixes, security patches, non-disruptive performance improvements, and similarly non-disruptive new features. Ensure that releases always make it clear what has changed and what it means for a user. Minor releases with these characteristics are easier for Jupyter users and operators to deploy. This pattern also keeps the contributors familiar with the release process.  
 4. **Increase the speed of security fixes.** Security vulnerabilities are a strong concern for organizations that deploy Jupyter technology as part of shared services. Improvements to Jupyter’s overall software quality should result in faster, more efficient processes for identifying, resolving, and releasing security errors.
 
-### Examples of how to grow software quality
+### Examples of how to improve Jupyter software reliability, security, and consistency
 
 - Hold events that allow subprojects to meet and co-work to solve their most pressing problems.  
 - Fund contributor time to focus on security, testing coverage, etc.  
