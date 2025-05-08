@@ -21,8 +21,15 @@ Our Program Manager is [Naomi Washington](https://www.linkedin.com/in/naomiwashi
 ## How to get support from the Linux Foundation
 
 We have a few different avenues for support from the Linux Foundation.
+
+### Use the LF support e-mail
+
 The easiest route is to e-mail `support@jupyterfoundation.org` with your question, and they'll get back to you.
-You can also reach out to [our Program Manager](#program-manager).
+You can also reach out to [our Program Manager](#program-manager), who monitors this e-mail.
+
+### Open a Jira ticket
+
+For technical support within LF, [use this Jira dashboard to open a ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2). You'll need to select the kind of service you need from them, and submit a ticket for them to track.
 
 ## How to control the jupyterfoundation.org domain
 
