@@ -17,6 +17,17 @@ The best way to send messages is via e-mail, please ask another Foundation membe
 
 Our Program Manager is [Naomi Washington](https://www.linkedin.com/in/naomiwashington/).
 
+(lf-dashboard)=
+## The Linux Foundation dashboard
+
+The Linux Foundation runs a dashboard called [`openprofile.dev`](https://openprofile.dev) that provides a number of entry-points into information and processes in the LF ecosystem.
+For example:
+
+- When meetings are happening.
+- Any open votes.
+
+Each board member should be able to log into this portal with their account.
+
 (support)=
 ## How to get support from the Linux Foundation
 
