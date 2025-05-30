@@ -1,5 +1,9 @@
 # About the Jupyter Foundation
 
+## The Jupyter Foundation Charter
+
+The [Jupyter Foundation page in the governance documentation](https://jupyter.org/governance/jupyter_foundation.html) defines the Foundation's charter and overall structure.
+
 ## Our Mission
 
 The Jupyter Foundation exists to ensure that Project Jupyter has the resources it needs to build sustainable, reliable, and impactful technology.
@@ -42,6 +46,15 @@ The Board Chair leads the Jupyter Foundation Governing Board ("Board") in conduc
 #### How is the board chair elected?
 
 The Board elects a chair with a majority vote of its members.
+
+### Board treasurer
+
+The Board Treasurer is the primary point of contact with LF around the budget.
+Here's a summary of their major responsibilities:
+
+- Meet regularly with LF administrators that represent budget (e.g. Monthly)
+- Receive monthly reports from LF
+- Communicate those reports to the board
 
 (subcommittees)=
 ### Subcommittees
