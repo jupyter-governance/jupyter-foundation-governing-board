@@ -47,7 +47,7 @@ The Board Chair leads the Jupyter Foundation Governing Board ("Board") in conduc
 
 The Board elects a chair with a majority vote of its members.
 
-### Board treasurer
+### Board Treasurer
 
 The Board Treasurer is the primary point of contact with LF around the budget.
 Here's a summary of their major responsibilities:
