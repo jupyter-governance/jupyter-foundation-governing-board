@@ -10,16 +10,20 @@ project:
   abbreviations:
     LF: The Linux Foundation
     JEC: Jupyter Executive Council
-  project:
-    references:
-      jec: https://executive-council-team-compass.readthedocs.io/en/latest/
+  references:
+    jec: https://ec.jupyter.org
   toc:
     - file: index.md
     - file: about.md
+      children:
+        - file: structure.md
     - file: strategy.md
-    - file: funding/priorities.md
-    - file: funding/process.md
-    - file: finance.md
+    - title: Funding and proposals
+      children:
+      - file: funding/priorities.md
+      - file: funding/budget.md
+      - file: funding/process.md
+      - file: funding/finance.md
     - file: communication.md
     - file: admin.md
     - file: contribute.md

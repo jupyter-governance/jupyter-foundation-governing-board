@@ -1,4 +1,4 @@
-# Accounting and finances
+# Accounting and finance information
 
 ## Where can I find the budget?
 

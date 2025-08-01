@@ -6,11 +6,11 @@ If you need reimbursement from the Linux Foundation, here are instructions:
 
 1. Collect all receipts for your expenses.
 1. Download and fill out the [LF Expense Report Template](https://docs.google.com/spreadsheets/d/10spMFQ23mZqwXHXBeY3kNcab5nf4SW3k/edit?gid=1152712870#gid=1152712870).
-1. Submit the template to our [](#program-manager) along with your receipts.
+1. Submit the template to our [](#role:program-manager) along with your receipts.
 1. LF Accounting will send you a request via [bill.com](https://bill.com) for your account information for reimbursement.
 
-(program-manager)=
-## Jupyter's Program Manager
+(role:program-manager)=
+## Jupyter's LF Program Manager
 
 The Program Manager is our primary point-of-contact with the Linux Foundation, and is the best person to ask for any questions involving LF processes.
 The best way to send messages is via e-mail, please ask another Foundation member if you need it.
@@ -36,7 +36,7 @@ We have a few different avenues for support from the Linux Foundation.
 ### Use the LF support e-mail
 
 The easiest route is to e-mail `support@jupyterfoundation.org` with your question, and they'll get back to you.
-You can also reach out to [our Program Manager](#program-manager), who monitors this e-mail.
+You can also reach out to [our Program Manager](#role:program-manager), who monitors this e-mail.
 
 ### Open a Jira ticket
 
