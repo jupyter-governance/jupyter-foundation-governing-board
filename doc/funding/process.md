@@ -4,7 +4,15 @@ This describes the process that the board and the Jupyter community follow in or
 
 Submissions are accepted on a rolling basis throughout the year, with funds being released according to our [budget allocations](./budget.md). 
 
-## Step by step overview
+## Proposal structure
+
+Here's the structure of a proposal:
+
+- **A GitHub issue** tracks each proposal's status and metadata. Use [this issue template](TODO: Link to template).
+- **A Google Doc** contains the proposal text. Use [this proposal template](TODO: LINK TO TEMPLATE).
+- **A GitHub Project Board** tracks the status of all proposals. See [this proposals board](TODO: ADD LINK).
+
+## Overview of the process
 
 1. **Proposer creates an issue on GitHub**: This issue gets added to a Proposals Project Board in a “Drafting” state. This is for scoping the big idea and getting others on board.
 
@@ -53,25 +61,15 @@ To illustrate how this cadence works in practice. Let’s consider example sched
 While the board is preparing to vote on one batch of proposals (e.g., for the September 19th meeting), subcommittees should already be reviewing and nominating the **next batch of proposals** for the following month’s meeting. This rolling cadence ensures there is no downtime between proposal cycles and keeps momentum across quarters.
 :::
 
-## How to create a proposal
+## Tips for writing a proposal
 
-We will track proposals in the queue and their status on GitHub (i.e., we will use GitHub for project management). Actual proposals will be drafted in Google Docs and will use a proposal template for ease of review. On GitHub, each ticket should have:
+- Focus on the outcomes and the value to the community, not implementation details.
+- Focus on our [funding priorities](priorities.md) and [board strategy](../strategy.md).
+- The smaller the budget you're proposing, the higher chance it will be accepted.[^budget-total]
+- The more support you can show from the community, the higher chance it will be accepted.
 
-:::{note} The annual proposal cycle ends in September
-This ensures that all approved proposals have sufficient time to execute and report before the end of the fiscal year, giving proposers a full quarter to utilize the funds.
-:::
-
-- Proposal Name
-- Link to Proposal
-- Link to discussion thread on Discourse
-- Submitter/Contact
-- Date submitted
-- Category (see above)
-- Status
+[^budget-total]: As a rule of thumb for deciding what "a large" funding ask would be, assume the Foundation has on the order of `$1M` in total funds to work with.
 
 ## Who can propose funding?
 
 Anybody can propose funding following the process above, and we encourage community members to do so as collaborative efforts.
-
----
-
