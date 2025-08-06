@@ -9,11 +9,12 @@ After each meeting we also approve _public_ meeting minutes and post them in thi
 
 ## How we approve meeting minutes
 
-After each meeting, here's how we approve meeting minutes.
+We follow a ["lazy consensus" model](https://community.apache.org/committers/decisionMaking.html#lazy-consensus) for meeting minutes. Here's an overview of the process:
 
-- Our [Program Manager](#role:program-manager) will finalize the meeting minutes.
-- Each board member will get an e-mail noting that the minutes are ready for review.
-- Each board member reviews the minutes, and votes to approve them [via the LF OpenDev portal](#lf-dashboard).
+- **Draft**: Draft minutes are circulated by the [](#role:program-manager) 1 week after each board meeting.
+- **Review**: Board members have at least 1 week to review and propose changes. Approve them [via the LF OpenDev portal](#lf-dashboard).
+- **Approval without changes**: If no changes are suggested during the initial review, the minutes will be automatically approved.
+- **Changes are proposed**: The Review period will extend by 1 week.
 
 ## Where to find public meeting minutes?
 
