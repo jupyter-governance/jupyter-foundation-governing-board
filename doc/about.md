@@ -1,4 +1,4 @@
-# About us
+# About the foundation
 
 ## The Jupyter Foundation Charter
 
