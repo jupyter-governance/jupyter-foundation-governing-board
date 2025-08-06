@@ -16,6 +16,10 @@ We follow a ["lazy consensus" model](https://community.apache.org/committers/dec
 - **Approval without changes**: If no changes are suggested during the initial review, the minutes will be automatically approved.
 - **Changes are proposed**: The Review period will extend by 1 week.
 
+## Public meeting minutes
+
+After each board meeting, the [](#role:program-manager) prepares a version of the minutes meant for release to the public.
+They propose this as a Pull Request to the Foundation Board team compass. Any board member is encouraged to merge it.
 ## Where to find public meeting minutes?
 
 Below are the minutes from each year of the Foundation Governing Board:
