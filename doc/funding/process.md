@@ -22,8 +22,8 @@ Here's the structure of a proposal:
    :::
 2. **Proposer creates a thread on Discourse**: This is for feedback and discussion around the proposal, linked from the issue.
    :::{warning} TODO
-   - Link to the sub-category in Discourse
-   - Link to open a Discourse thread directly?
+   - Link to the sub-category in [the Community Forum](https://discourse.jupyter.org)
+   - Link to open a forum thread directly?
    :::
 3. **Proposer starts drafting**: When the idea is concrete-enough, the proposer drafts language for the proposal. Use [the Proposal Template](https://docs.google.com/document/d/101cNUZbGCWUMn8LbDiSRjL5Q78e_31gN4-FqCiSp47o/edit?tab=t.5inaorn0ect5#heading=h.5i77we14fyb) and link it to the GitHub issue.
 4. **Submit Proposal**: Submit the proposal for review by a subcommittee by `???` (marking a github status? changing the proposal metadata in a google doc?)
@@ -43,10 +43,8 @@ Here's the structure of a proposal:
    - **Reject**: Funds are not approved and the process ends for this proposal.
    - **Request revisions**: Funds are not approved, with an invitation to re-submit via the subcommittee.
 7. **Sign-Off by LF Team**: The [Treasurer](#role:treasurer) coordinates with the [LF Program Manager](#role:program-manager) and Accountant for financial validation and compliance.
-   :::{warning} TODO
-   - How is this formally encoded? Is there a status or documentation somewhere to note when this has been done?
-   :::
-8. **Execution and Reporting**: Once approved, funds are disbursed by LF (the specific mechanism and timing will depend on the proposal). Proposal owners execute the work and provide a brief report on fund usage (quarterly or upon completion).
+8. **Execution**: Once approved, funds are disbursed by LF (the specific mechanism and timing will depend on the proposal). Proposal owners are responsible for ensuring the work is executed.
+9. **Reporting**. Proposal owners should provide regular updates to the Foundation board, ideally in the form of public blog posts. At least one public blog post should be communicated describing the outcomes of the funding effort.
 
 ### Example schedule
 
@@ -65,10 +63,8 @@ While the board is preparing to vote on one batch of proposals (e.g., for the Se
 
 - Focus on the outcomes and the value to the community, not implementation details.
 - Focus on our [funding priorities](priorities.md) and [board strategy](../strategy.md).
-- The smaller the budget you're proposing, the higher chance it will be accepted.[^budget-total]
+- The smaller the budget you're proposing, the higher chance it will be accepted.
 - The more support you can show from the community, the higher chance it will be accepted.
-
-[^budget-total]: As a rule of thumb for deciding what "a large" funding ask would be, assume the Foundation has on the order of `$1M` in total funds to work with.
 
 ## Who can propose funding?
 
