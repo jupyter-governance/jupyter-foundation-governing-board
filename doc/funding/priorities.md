@@ -1,8 +1,9 @@
 
 # Funding priorities
 
-_We agreed upon the following areas to prioritize for funding. These were identified as critical shared needs by both the Jupyter Community as well as the Member organizations._
+The following priorities are the primary outcomes that the Foundation is prioritizing for funding.
 
+(goal:capacity)=
 ## Grow the contributor capacity of Jupyter
 
 A consistent challenge within Jupyter’s community is the lack of resources and time to maintain and develop its technology and community. At the same time, Foundation Member organizations have many people who are interested in contributing, but face barriers to doing so.
@@ -17,7 +18,7 @@ _These are likely not exhaustive, but are included to help us understand the kin
 2. **Improve the efficiency of our contributors.** It takes less effort to maintain and develop technology in the Jupyter ecosystem. This includes reducing toil, automating common actions, defining processes and responsibility that helps us execute more reliably and effectively, etc.  
 3. **Facilitate learning across the Jupyter subprojects.** Currently many subprojects act as independent and self-contained teams. They do not have a reliable way for learning from others in the Jupyter ecosystem, sharing resources, and sharing skills. Creating mechanisms for connecting these separate parts of the Jupyter ecosystem will result in more coherent and efficient actions across its community.
 
-### Examples of how to grow contributor capacity
+### Example activities
 
 - Hold events that grow Jupyter’s visibility and presence.  
 - Hold events that give newcomers an opportunity to collaborate with maintainers in real-time to gain comfort with participating in the project.  
@@ -28,6 +29,7 @@ _These are likely not exhaustive, but are included to help us understand the kin
 - Fund maintainer time to steward contributions from external contributors and provide them feedback with the goal of increasing their comfort with contributing.  
 - Fund development work on maintainer infrastructure that reduces toil and grows efficiency (e.g., improving the Jupyter Releaser technology and documentation)
 
+(goal:software)=
 ## Improve the reliability, security, and consistency of Jupyter’s software
 
 Many of Jupyter’s repositories lack the capacity needed to be considered reliable, safe, and consistent. This is due to a combination of bandwidth constraints, tooling, training, and coordination. As a result, Jupyter’s subprojects often accrue technical debt that burns out their maintainers, and that increases the variability of their outputs. Member organizations have a desire for Jupyter’s technology to be *reliable, safe, and consistent*. This allows them to confidently build their own technical dependencies on Jupyter technology and use them in production contexts.
@@ -43,7 +45,7 @@ _These are likely not exhaustive, but are included to help us understand the kin
 3. **Increase the frequency and transparency of minor releases.** “Release early, release often”, with an emphasis on minor releases providing bug fixes, security patches, non-disruptive performance improvements, and similarly non-disruptive new features. Ensure that releases always make it clear what has changed and what it means for a user. Minor releases with these characteristics are easier for Jupyter users and operators to deploy. This pattern also keeps the contributors familiar with the release process.  
 4. **Increase the speed of security fixes.** Security vulnerabilities are a strong concern for organizations that deploy Jupyter technology as part of shared services. Improvements to Jupyter’s overall software quality should result in faster, more efficient processes for identifying, resolving, and releasing security errors.
 
-### Examples of how to improve Jupyter software reliability, security, and consistency
+### Example activities
 
 - Hold events that allow subprojects to meet and co-work to solve their most pressing problems.  
 - Fund contributor time to focus on security, testing coverage, etc.  
@@ -65,7 +67,7 @@ _These are likely not exhaustive, but are included to help us understand the kin
 - **Jupyter Foundation members find value in their membership**. The primary goal of this group is to ensure that the members of the Jupyter Foundation are engaged, see their interests represented, and generally see value in their membership with the Jupyter Foundation.
 - **The Jupyter Foundation has the resources it needs to accomplish its goals**. In order to ensure that the Foundation can meet its goals, the Foundation needs financial resources from its paying members. This committee also aims to grow the Foundation to a level that allows it to accomplish its goals.
 
-### Examples of how to develop the Foundation
+### Example activities
 
 - Identify the necessary roles to sustain the Foundation operations (e.g., Treasurer, Executive Director)
 - Create feedback loops between the Jupyter community, the Jupyter Executive Council, Member Organizations, and the Foundation (both synchronous and asynchronous)  

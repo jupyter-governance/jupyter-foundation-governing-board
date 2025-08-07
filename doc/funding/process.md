@@ -1,15 +1,71 @@
-# Process for funding
+# Process for funding proposals
 
-This is the process the Board currently follows, and it will improve the details of this process as we begin taking our first steps.
+This describes the process that the board and the Jupyter community follow in order to unlock funds from the Foundation.
 
-- The [Board Chair](#board-chair) is accountable for ensuring the Board understands its budget.
-- [Subcommittees](#subcommittees) (or individual board members) make proposals for funding to the Board.
-- The Board takes a vote on whether to fund each proposal.
-- If proposals are accepted, the Board will delegate the implementation of the proposal to a subcommittee or individual on the Board.
-- If subcommittees are responsible for implementing a proposal, then a **majority vote of the Governing Board members on the subcommittee** makes decision about how to spend the funds, as long as it is under the total amount in the proposal.   
+Submissions are accepted on a rolling basis throughout the year, with funds being released according to our [budget allocations](./budget.md). 
 
-## How to submit a proposal for funding
+## Proposal structure
 
-- Go to [this proposal template](https://docs.google.com/document/d/101cNUZbGCWUMn8LbDiSRjL5Q78e_31gN4-FqCiSp47o/edit?usp=sharing)
-- Duplicate it into a new document (it should be placed in the `Funding Proposals` folder in the Board's Google Drive).
-- Follow the instructions in the template.
+Here's the structure of a proposal:
+
+- **A GitHub issue** tracks each proposal's status and metadata. Use [this issue template](TODO: Link to template).
+- **A Google Doc** contains the proposal text. Use [this proposal template](TODO: LINK TO TEMPLATE).
+- **A GitHub Project Board** tracks the status of all proposals. See [this proposals board](TODO: ADD LINK).
+
+## Overview of the process
+
+1. **Proposer creates an issue on GitHub**: This issue gets added to a Proposals Project Board in a “Drafting” state. This is for scoping the big idea and getting others on board.
+
+   :::{warning} TODO
+   - Link to proposals project board
+   - Link to draft issue link.
+   :::
+2. **Proposer creates a thread on Discourse**: This is for feedback and discussion around the proposal, linked from the issue.
+   :::{warning} TODO
+   - Link to the sub-category in [the Community Forum](https://discourse.jupyter.org)
+   - Link to open a forum thread directly?
+   :::
+3. **Proposer starts drafting**: When the idea is concrete-enough, the proposer drafts language for the proposal. Use [the Proposal Template](https://docs.google.com/document/d/101cNUZbGCWUMn8LbDiSRjL5Q78e_31gN4-FqCiSp47o/edit?tab=t.5inaorn0ect5#heading=h.5i77we14fyb) and link it to the GitHub issue.
+4. **Submit Proposal**: Submit the proposal for review by a subcommittee by `???` (marking a github status? changing the proposal metadata in a google doc?)
+
+   :::{warning} TODO
+   - Link to proposals project board
+   - Link to draft issue link.
+   :::
+5. **Subcommittee Review**: Subcommittees review proposals and recommend next actions.[^expectations] The GitHub issue is moved to “In Review” in the Project Board. Here are a few potential outcomes from the review process:
+   - Recommend the proposal for board vote
+   - Request revisions from the proposer
+   - Reject low-quality or misaligned submissions without a general board vote.
+
+  [^expectations]: Subcommittees should nominate proposals at least two weeks ahead of the second general board meeting of the month. If the subcommittee does not provide feedback within the review window, the proposal may still proceed to board vote at the discretion of the Treasurer and Board Chair to avoid unnecessary delays.
+6. **Board Review and Vote**: All subcommittee-nominated proposals are reviewed and voted on during the second board meeting of each month. Here are potential outcomes from the board:
+   - **Accept**: Funds are approved by the board and move to approval by LF.
+   - **Reject**: Funds are not approved and the process ends for this proposal.
+   - **Request revisions**: Funds are not approved, with an invitation to re-submit via the subcommittee.
+7. **Sign-Off by LF Team**: The [Treasurer](#role:treasurer) coordinates with the [LF Program Manager](#role:program-manager) and Accountant for financial validation and compliance.
+8. **Execution**: Once approved, funds are disbursed by LF (the specific mechanism and timing will depend on the proposal). Proposal owners are responsible for ensuring the work is executed.
+9. **Reporting**. Proposal owners should provide regular updates to the Foundation board, ideally in the form of public blog posts. At least one public blog post should be communicated describing the outcomes of the funding effort.
+
+### Example schedule
+
+To illustrate how this cadence works in practice. Let’s consider example schedules for August and September.  
+
+| Subcommittee nomination deadline (2 weeks from board vote) | Board vote (2nd board meeting of the month) | Disbursement (Target) |
+| :---- | :---- | :---- |
+| Friday August 8th | Friday August 22nd  | September 1st  |
+| Friday September 5th | Friday September 19th | October 1st  |
+
+:::{note}
+While the board is preparing to vote on one batch of proposals (e.g., for the September 19th meeting), subcommittees should already be reviewing and nominating the **next batch of proposals** for the following month’s meeting. This rolling cadence ensures there is no downtime between proposal cycles and keeps momentum across quarters.
+:::
+
+## Tips for writing a proposal
+
+- Focus on the outcomes and the value to the community, not implementation details.
+- Focus on our [funding priorities](priorities.md) and [board strategy](../strategy.md).
+- The smaller the budget you're proposing, the higher chance it will be accepted.
+- The more support you can show from the community, the higher chance it will be accepted.
+
+## Who can propose funding?
+
+Anybody can propose funding following the process above, and we encourage community members to do so as collaborative efforts.
