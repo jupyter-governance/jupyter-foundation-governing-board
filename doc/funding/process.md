@@ -59,12 +59,22 @@ Here's a rough summary of dates we aim to hit.
 
 Again, **this is an experiment** - our goal is to try this process out and to learn, not to get it perfect. Please be patient and give feedback about how we can improve.
 
+## Goals for first round of funding proposals
+
+In this first round of funding proposals, our goal is to release enough funding that we can improve this process, learn what delivers value to the Jupyter community, and have some impact that supports [our funding priorities](priorities.md). Here's a rough idea of the _minimal_ funding targets we hope to hit (we'd be perfectly happy if we exceed them!)
+
+- **Number of proposals funded**: Around 2-4, maybe more depending on proposal complexity.
+- **Total amount of funding**: Around $250,000.
+
+Again, these are minimum targets to hit that we consider "enough to help us learn", it's no problem if we exceed them.
+
 (tips-for-writing-a-proposal)=
 ## Tips for writing a proposal
 
 - Focus on the outcomes and the value to the community, not implementation details.
 - Focus on our [funding priorities](priorities.md) and [board strategy](../strategy.md).
 - The smaller the budget you're proposing, the higher chance it will be accepted.
+- That said, don't hesitate to be ambitious! We want to see creative and impactful ideas.
 - The more support you can show from the community, the higher chance it will be accepted.
 
 ## Who can propose funding?
