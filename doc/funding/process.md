@@ -39,7 +39,7 @@ Submissions are accepted on a rolling basis throughout the year, with funds bein
 1. **Reporting**. Proposal owners should provide regular updates to the Foundation board, ideally in the form of public blog posts. At least one public blog post should be communicated describing the outcomes of the funding effort.
 
 (timing-goals)=
-### Exepectations and goals for timing
+## Exepectations and goals for timing
 
 To begin, our focus is on learning how to follow this process and work out the kinks. 
 **This is still a work in progress**! We aim to strike a balance between reviewing frequently, and reviewing on a reliable timeframe that helps us consider many proposals at once without too much toil. We're still working on the right balance, so bear with us!
@@ -58,19 +58,6 @@ Here's a rough summary of dates we aim to hit.
 | **Oct 20** | Announce funded proposals. |
 
 Again, **this is an experiment** - our goal is to try this process out and to learn, not to get it perfect. Please be patient and give feedback about how we can improve.
-
-### Example schedule
-
-To illustrate how this cadence works in practice. Let’s consider example schedules for August and September.  
-
-| Subcommittee nomination deadline (2 weeks from board vote) | Board vote (2nd board meeting of the month) | Disbursement (Target) |
-| :---- | :---- | :---- |
-| Friday August 8th | Friday August 22nd  | September 1st  |
-| Friday September 5th | Friday September 19th | October 1st  |
-
-:::{note}
-While the board is preparing to vote on one batch of proposals (e.g., for the September 19th meeting), subcommittees should already be reviewing and nominating the **next batch of proposals** for the following month’s meeting. This rolling cadence ensures there is no downtime between proposal cycles and keeps momentum across quarters.
-:::
 
 (tips-for-writing-a-proposal)=
 ## Tips for writing a proposal
