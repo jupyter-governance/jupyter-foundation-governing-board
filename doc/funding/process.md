@@ -39,12 +39,25 @@ Submissions are accepted on a rolling basis throughout the year, with funds bein
 1. **Reporting**. Proposal owners should provide regular updates to the Foundation board, ideally in the form of public blog posts. At least one public blog post should be communicated describing the outcomes of the funding effort.
 
 (timing-goals)=
-### Timing goals for review
+### Exepectations and goals for timing
 
-Subcommittees aim to review proposals about once a month in batches. Once subcommittees recommend a proposal for funding, the board has one week to object or suggest other actions.
-
+To begin, our focus is on learning how to follow this process and work out the kinks. 
 **This is still a work in progress**! We aim to strike a balance between reviewing frequently, and reviewing on a reliable timeframe that helps us consider many proposals at once without too much toil. We're still working on the right balance, so bear with us!
 
+Here's a rough summary of dates we aim to hit.
+
+| Date | Item |
+| :--- | :--- |
+| **Aug 26** | Communicate this process to the board. |
+| **Aug 29** | CFP (Call for Proposals) sent out. |
+| **2 weeks from CFP** | Proposal issue discussion. |
+| **2 weeks from issue discussion** | Proposal drafting. |
+| **Sep 28** | Submission deadline. Proposals are snapshotted as a PDF and sent to the relevant committee. |
+| **Oct 10** | Committee review (2 weeks after submission deadline). |
+| **Oct 17** | Board review (asynchronous, 1 week after committee submits to board). |
+| **Oct 20** | Announce funded proposals. |
+
+Again, **this is an experiment** - our goal is to try this process out and to learn, not to get it perfect. Please be patient and give feedback about how we can improve.
 
 ### Example schedule
 
