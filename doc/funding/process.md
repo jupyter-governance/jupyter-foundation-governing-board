@@ -18,8 +18,8 @@ Submissions are accepted on a rolling basis throughout the year, with funds bein
    - [Issue template for new proposals →](https://github.com/jupyter-governance/funding-proposals/issues/new?template=proposal.md)
    - [Board for tracking all proposals →](https://github.com/orgs/jupyter-governance/projects/13)
 1. **Writing**: When the idea is concrete-enough, draft language for the proposal.
-   - Create a [new proposal document from this template](https://docs.google.com/document/d/101cNUZbGCWUMn8LbDiSRjL5Q78e_31gN4-FqCiSp47o/edit?usp=sharing).
-   - Put it in the same folder as the template so anyone can access.
+   - [New proposal template →](https://docs.google.com/document/d/101cNUZbGCWUMn8LbDiSRjL5Q78e_31gN4-FqCiSp47o/edit?usp=sharing).
+   - Copy the template, put it in the same folder as the template so anyone can access.
    - Set the issue status to {kbd}`Writing`.
    - See [](#tips-for-writing-a-proposal).
 1. **Submission**: When the proposal is ready for review, announce that it's ready for a subcommittee to take a look.
