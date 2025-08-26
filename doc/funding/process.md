@@ -22,9 +22,10 @@ This describes the process that the board and the Jupyter community follow in or
    - Copy the template, put it in the same folder as the template so anyone can access.
    - Set the issue status to {kbd}`Writing`.
    - See [](#tips-for-writing-a-proposal).
-1. **Submission**: When the proposal is ready for review, announce that it's ready for a subcommittee to take a look.
-   - Ping the [`@jupyter-foundation-governing-board` team](https://github.com/orgs/jupyter-governance/teams/jupyter-foundation-governing-board) in a comment on the proposal tracking issue.
-   - Set the status to {kbd}`Review`.
+1. **Submission**: When the proposal is ready for review, announce that it's ready for a subcommittee to take review:
+   - Make a comment on the proposal issue pinging [`@jupyter-foundation-admins` team](https://github.com/orgs/jupyter-governance/teams/jupyter-foundation-admins) and telling them that the proposal should be considered as submitted.
+   - Set the status in the proposal document to {kbd}`Reviewing`.
+   - The foundation admins will also change the project tracking board status to indicate the proposal is being reviewed.
 1. **Review**: Subcommittees review proposals and recommend next actions.
    - See [](#timing-goals)
    - A few potential outcomes from the review process:
