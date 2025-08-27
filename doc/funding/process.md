@@ -2,6 +2,11 @@
 
 This describes the process that the board and the Jupyter community follow in order to unlock funds from the Foundation.
 
+```{card} Submit a funding proposal by September 28, 2025
+:link: [https://ec.jupyter.org](https://jupyterfoundation.org/community-funding-proposals/)
+Click here for information on the first call for community proposals.
+```
+
 ## Important links
 
 - First funding round:
