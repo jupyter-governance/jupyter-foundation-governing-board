@@ -76,7 +76,7 @@ If a subcommittee has members that are not also on the Board, then any decisions
 
 #### Committee Officers
 
-1. The committee elects a chairperson.The committee can elect co-chairs or vice-chairs as they see fit. These roles are collectively known as the committee officers.
+1. The committee elects a chairperson. The committee can elect co-chairs or vice-chairs as they see fit. These roles are collectively known as the committee officers.
 2. Officers must be voting members of the committee.
 3. Elected positions serve for a year or until their successors are elected. A committee member serving in a position can be re-elected in subsequent years.
 4. LF staff run the election (gathering candidate nominations, running the ballot, announcing and recording the outcome) in a reasonable manner.
