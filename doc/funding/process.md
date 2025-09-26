@@ -2,7 +2,7 @@
 
 This describes the process that the board and the Jupyter community follow in order to unlock funds from the Foundation.
 
-```{card} Submit a funding proposal by September 28, 2025
+```{card} Submit a funding proposal by October 5, 2025
 :link: https://jupyterfoundation.org/community-funding-proposals/
 Click here for information on the first call for community proposals.
 ```
@@ -10,7 +10,7 @@ Click here for information on the first call for community proposals.
 ## Important links
 
 - First funding round:
-  - [Call for Proposals, including timeline and funding targets](https://jupyterfoundation.org/community-funding-proposals/). Proposals are due by September 28, 2025.
+  - [Call for Proposals, including timeline and funding targets](https://jupyterfoundation.org/community-funding-proposals/). Proposals are due by October 5, 2025~~September 28, 2025~~ (we extended the deadline by one week).
 - [`jupyter-governance/funding-proposals`](https://github.com/jupyter-governance/funding-proposals) is the repository where we track proposals.
 - [This issue template](https://github.com/jupyter-governance/funding-proposals/issues/new?template=proposal.md) begins a new proposal idea, we use it to coordinate writing, discussion, and status.
 - **[This proposal template](https://docs.google.com/document/d/101cNUZbGCWUMn8LbDiSRjL5Q78e_31gN4-FqCiSp47o/edit?usp=drive_link)** has all the information needed for a new proposal. Authors duplicate it to do their writing in a public space.
