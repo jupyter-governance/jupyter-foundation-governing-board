@@ -6,7 +6,6 @@ This describes the process that the board and the Jupyter community follow in or
 :link: https://jupyterfoundation.org/community-funding-proposals/
 Click here for information on the current call for community proposals.
 ```
-git 
 ## Important links
 
 - [Call for Proposals, including timeline and funding targets](https://jupyterfoundation.org/community-funding-proposals/).
