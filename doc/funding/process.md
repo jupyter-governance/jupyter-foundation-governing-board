@@ -16,7 +16,6 @@ Click here for information on the current call for community proposals.
 
 ## How to submit your proposal
 
-See the [proposal process guidelines](https://jupyter-governance.github.io/jupyter-foundation-governing-board/funding/process/) for more details.
 
 1. **Draft Your Proposal**
     * Create your proposal by copying and filling out the [Google Doc Proposal Template](https://docs.google.com/document/d/101cNUZbGCWUMn8LbDiSRjL5Q78e_31gN4-FqCiSp47o/edit?usp=sharing).
