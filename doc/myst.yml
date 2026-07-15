@@ -31,6 +31,7 @@ project:
       file: meetings/index.md
       children:
       - file: meetings/2025.md
+      - file: meetings/2026.md
 site:
   template: book-theme
   options:
